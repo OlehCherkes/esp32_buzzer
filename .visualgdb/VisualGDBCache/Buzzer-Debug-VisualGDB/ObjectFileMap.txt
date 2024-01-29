@@ -1,0 +1,1 @@
+C:\Users\Oleh\Desktop\Buzzer\main\mcpwm_bdc_control_example_main.c|esp-idf/main/CMakeFiles/__idf_main.dir/mcpwm_bdc_control_example_main.c.obj
